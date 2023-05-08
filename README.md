@@ -12,8 +12,6 @@
 I've been Self-studying CS for a couple months, I've decided to Joing y'all on GitHub so i can learn more form your great Projects ✨. <br>
 Note: I'm currently learning using <a href="https://github.com/ossu">OSSU</a> Curriculum! <br>
  </h4>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-adel-116a3b238/)
