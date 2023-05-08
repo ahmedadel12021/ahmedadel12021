@@ -11,7 +11,7 @@ Note: I'm currently learning using <a href="https://github.com/ossu">OSSU</a> Cu
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-adel-116a3b238/)
+
 
 
 ## 🛠 Skills
