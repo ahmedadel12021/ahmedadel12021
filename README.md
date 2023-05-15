@@ -1,13 +1,6 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Ahmed, Welcome To My Github Profile ♥</h1>
-
-<br>
-
 ## 🚀 About Me
-<h4> I'm a Business College student who love Programming, Math and Computers 💻. <br>
-I've been Self-studying CS for a couple months, I've decided to Joing y'all on GitHub so i can learn more form your great Projects ✨. <br>
+<h4> My name is Ahmad and I’m a student at the Faculty of Business at Alexandria University. While my studies are focused on business, I’m also passionate about computer science and programming. I love exploring new concepts and working on coding projects in my free time. I believe that technology has the power to change the world, and I’m excited to be part of that change.
  <br>
-Note: I'm currently learning using <a href="https://github.com/ossu">OSSU</a> Curriculum! <br>
- </h4>
 
 
 ## 🔗 Links
