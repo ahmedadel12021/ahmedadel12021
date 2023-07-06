@@ -5,7 +5,7 @@
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange)
-
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## 📜 Feedback
 
