@@ -6,7 +6,9 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
+  <a href="https://github.com/ossu/computer-science">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </a>
 ## 📜 Feedback
 
 If you have any feedback, please reach out to me at ahmedadel12021@outlook.com
